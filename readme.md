@@ -35,4 +35,4 @@ It  is useful because instead of adding eventlistener to multiple child nodes we
 
 5.
 preventDefault():In form element if we add a button and click on it it automatically reloads the page to prevent this we use preventDefault
-stopPropagation():
+stopPropagation(): It stops the event from bubbling up to parent elements
