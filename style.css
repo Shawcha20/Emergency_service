@@ -1,3 +1,8 @@
 .f-hind{
     font-family: "Hind Madurai",sans-serif;
 }
+.custom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
